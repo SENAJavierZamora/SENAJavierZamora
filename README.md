@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SENAJavierZamora&show_icons=true&theme=radical)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SENAJavierZamora&show_icons=true&theme=radical) ---->
 
 
 <!--
